@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1344100,RESOLUTION=1280x720
-https://linier.rctiplus.id/live/eds/rcti_fta/live_fta/hdntl=exp=1605907869~acl=%2f*~data=hdntl~hmac=c888ce8f5c359c3df39a8ff8f2a51b0ad2f6768061bef20c8884194d07097cd5/rcti_fta-avc1_2000000=1.m3u8?hdnts=exp=1605830457~hmac=09fa90d01c3dbe73306a5cdaf22e23ad5ea16bb06ab1a3422a267e4542f9785c&4
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/05.m3u8?1
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1344100,RESOLUTION=1280x720
-https://linier.rctiplus.id/live/eds/rcti_fta/live_fta/hdntl=exp=1605907977~acl=%2f*~data=hdntl~hmac=a26db8dd550d0a82ad43e50005a361b5534d72e415f1eb2f3c8872d2f99f3e0a/rcti_fta-mp4a_64000=2.m3u8?hdnts=exp=1605830573~hmac=759c4476f06a412fda3bd28e0dbe81e8ea628217d3fc157533bac18088888891
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/06.m3u8
