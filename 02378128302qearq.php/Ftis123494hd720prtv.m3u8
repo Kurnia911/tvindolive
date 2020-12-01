@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-http://riyancoday.xyz/coday_play.m3u8?shinta=JanganRESTREAMLahNjing&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69ad7d0b008c6972404cfbeadc511a3391a
+https://etslive-2-vidio-com.akamaized.net/exp=1606807306~acl=/hls-p/ingest_geo_1561_*/*~hmac=34ea234b4013ee2d32754c5f6dceab657bd772d1659a9ddd55a0ca50d75429aa/hls-p/ingest_geo_1561_720p/index.m3u8
