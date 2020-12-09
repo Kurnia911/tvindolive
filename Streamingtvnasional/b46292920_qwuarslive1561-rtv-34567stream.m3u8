@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://etslive-2-vidio-com.akamaized.net/exp=1607532215~acl=/hls-p/ingest_geo_1561_*/*~hmac=e584532b4321e0746f53739eb7d35a5c73c2a8f613fe7d5d598a192b6c583f51/hls-p/ingest_geo_1561_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1607538678~acl=/hls-p/ingest_geo_1561_*/*~hmac=586e2758cf7a684b490ec20eed1b6b7ef016cf248ac8da48ed1fc15a31e2c7b9/hls-p/ingest_geo_1561_720p/index.m3u8
