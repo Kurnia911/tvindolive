@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://vcdnjt.useetv.com/joss/14/rtv/chunklist_w1398055788_b684100_sleng_kurniajomblo.m3u8?enc=7fSI6w2QRx6ad08JMa137g&id=&exp=1607787529
+https://etslive-2-vidio-com.akamaized.net/exp=1607792350~acl=/hls-p/ingest_geo_1561_*/*~hmac=70842de4d46a49c2773c3ab802e2547bd84eefc555e375abedbd6e27ac682755/hls-p/ingest_geo_1561_720p/index.m3u8
