@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1344100,RESOLUTION=1280x720
-https://cdn12jtedge.useetv.com/joss/15/trans7/chunklist_w2064792739_b1344100_sleng_tvindolive.m3u8?enc=AjtqYYqgHvhtxlp7fg2QGw&id=&exp=1608918799
+https://etslive-2-vidio-com.akamaized.net/exp=1608984605~acl=/hls-p/ingest_734_*/*~hmac=72d54c16ae82bf4a45dbe4e2906d67ed86ce37b82f46222d52fb6d503e209e9c/hls-p/ingest_734_720p/index.m3u8
